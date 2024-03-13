@@ -39,3 +39,5 @@ devront être ajoutés à votre base de données).
 > * TERMINER LE PROJET !
 > * Optimiser les requêtes
 > * Ajouter un vrai front avec du CSS
+>
+> J'ai tenté les requêtes API mais par manque de temps, je n'ai pas voulu rendre des tentatives non finies

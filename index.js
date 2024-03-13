@@ -108,7 +108,7 @@ app.post("/login", async (req, res) => {
 // Traitement du formulaire de création du compte
 app.post("/register", async (req, res) => {
   const { email, username, password, confirm_password} = req.body;
-  if (password == confirm_password){
+  if (password === confirm_password){
       try {
         const exists = await userExists(email);
         if (exists) {
