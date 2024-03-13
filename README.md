@@ -1,12 +1,12 @@
-> # H1 Make it meme fait maison :
+> # Make it meme fait maison :
 
-> # H3 Présentation :
+> ### Présentation :
 
 >Le but de ce projet est de créer une application web ressemblant à "Make it Meme" en utilisant Express JS, une base de données en MySQL ou SQlite et une API. 
 
 >Il fallait utiliser l'API imgflip afin que l'utilisateur puisse choisir son meme puis rentrer plusieurs textes à l'aide de différentes input pour qu'ils soient affichés sur le meme en question.
 
-> # H3 Fonctionnalités attendues : 
+> ### Fonctionnalités attendues : 
 
 > * Espace membre avec base de données (sqlite, mysql, comme vous le
 sentez), vous devrez donc utiliser les requêtes SQL adéquates,
@@ -24,17 +24,17 @@ memes disponibles.
 > * Ajouter un meme que je viens de créer à mes favoris (ces memes
 devront être ajoutés à votre base de données).
 
-># H3 Ce que j'ai fait :
+>### Ce que j'ai fait :
 
 > * Application web basique en Express JS
 > * Base de données en SQlite
 >
-> # H5 Fonctionnalités faites à temps :
+> ###### Fonctionnalités faites à temps :
 >
 > * Possibilité de création de compte avec connexion
 > * Chiffrement des mots de passe avec la bibliothèque bcrypt
 >
-> # H3 Améliorations possibles :
+> ### Améliorations possibles :
 >
 > * TERMINER LE PROJET !
 > * Optimiser les requêtes
